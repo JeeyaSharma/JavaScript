@@ -1,0 +1,14 @@
+p
+{
+    font-size: larger;
+    font-weight: bold;
+}
+button
+{
+    padding: 10px;
+    background-color: midnightblue;
+    color: yellow;
+    font-weight: bold;
+    border: rgb(49, 49, 112);
+    border-radius: 5px;
+}

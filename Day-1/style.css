@@ -1,0 +1,21 @@
+.red_button
+{
+    background-color: red;
+    color: white;
+    border: none;
+}
+
+.yellow_button
+{
+    background-color: yellow;
+}
+
+.add_to_cart
+{
+    background-color: yellow;
+}
+
+.buy_now
+{
+    background-color: orange;
+}
