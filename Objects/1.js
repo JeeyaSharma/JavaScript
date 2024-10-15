@@ -27,3 +27,10 @@ obj.name="Laksh";
 obj.age=17;
 obj.height="5ft 9in";
 console.log(obj);
+
+
+// Creating an object using Constructors
+const obj3= new Object();
+obj3.name="Jeeya";
+console.log(obj3);
+console.log(typeof(obj3));
